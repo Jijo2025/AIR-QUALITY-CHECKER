@@ -12,4 +12,4 @@ Applications
 Contributing
 Feel free to contribute by improving AQI calculations or adding new data sources!
  ```sh
-     git clone 
+     git clone https://github.com/Jijo2025/AIR-QUALITY-CHECKER.git
