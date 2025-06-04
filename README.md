@@ -11,3 +11,5 @@ Applications
 - Supports research and environmental monitoring
 Contributing
 Feel free to contribute by improving AQI calculations or adding new data sources!
+ ```sh
+     git clone 
